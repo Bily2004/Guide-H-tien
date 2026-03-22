@@ -1,0 +1,5 @@
+{
+  "name": "Ayiti Guide",
+  "description": "A comprehensive guidance app for Haiti, providing real-time information on safety, culture, and locations using Google Maps grounding.",
+  "requestFramePermissions": ["geolocation"]
+}
